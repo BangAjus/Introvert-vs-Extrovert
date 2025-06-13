@@ -18,5 +18,5 @@ This is a fun project about ML API for predicting your personality, whether it i
 
 ## Test
 here is the json format if you wanna test the api:
-1. [log in](tools/login.json)
-2. [predicting](tools/predict.json)
+1. [log in](test/login.json)
+2. [predicting](test/predict.json)
