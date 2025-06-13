@@ -20,3 +20,8 @@ This is a fun project about ML API for predicting your personality, whether it i
 here is the json format if you wanna test the api:
 1. [log in](test/login.json)
 2. [predicting](test/predict.json)
+
+## Machine Learning
+this is the link to the notebook on kaggle if you are curious about the ML development.
+
+[Introvert vs Extrovert](https://www.kaggle.com/code/siesptkgunggus/using-logistic-regression)
