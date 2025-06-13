@@ -2,18 +2,18 @@
 This is a fun project about ML API for predicting your personality, whether it is introvert or extrovert.
 
 ## Step by step
-1. make virtual env
+1. make virtual env <br>
 `python -m venv [your_venv]`
 
-2. activate it
+2. activate it <br>
 `[your_venv]\Scripts\activate`
 
 3. make [requirements.txt](requirements.txt) file with the libs required
 
-4. install them with pip
+4. install them with pip <br>
 `pip install -r requirements.txt`
 
-5. run the app
+5. run the app <br>
 `python app.py`
 
 ## Test
